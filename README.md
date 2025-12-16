@@ -31,16 +31,17 @@ After experimenting with Vanilla CNNs and Ensembles, the **MobileNetV2** model p
 
 ## ⚙️ Methodology
 1.  **Data Preprocessing:** Images resized to 224x224, normalized to [-1, 1], and augmented with rotation, zoom, and flips.
-2.  **Architecture:** * Base: MobileNetV2 (Pre-trained on ImageNet, Frozen).
+2.  **Architecture:**
+    * Base: MobileNetV2 (Pre-trained on ImageNet, Frozen).
     * Head: GlobalAveragePooling -> Dense(256) -> Dropout(0.4) -> Dense(1, Sigmoid).
-3.  **Training:** Trained for 20 epochs with Early Stopping and Class Weights (1:1.74) to handle dataset imbalance.
-4.  **Threshold Tuning:** Optimal decision threshold tuned to **0.50** (or your specific saved npy value) to maximize F1-Score.
+4.  **Training:** Trained for 20 epochs with Early Stopping and Class Weights (1:1.74) to handle dataset imbalance.
+5.  **Threshold Tuning:** Optimal decision threshold tuned to **0.50** (or your specific saved npy value) to maximize F1-Score.
 
 ## 🚀 Installation & Usage
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/dee7205/Snake-Venom-Detection.git](https://github.com/dee7205/Snake-Venom-Detection.git)
+git clone https://github.com/dee7205/Snake-Venom-Detection.git
 cd Snake-Venom-Detection
 ```
 ### 2. Install dependencies
@@ -54,8 +55,7 @@ python app.py
 
 👩‍💻 Authors
 
-Dave Shanna Gigawin - Lead ML Engineer
-
-John Paul Ullegue - Data Specialist
+1. Dave Shanna Gigawin - Lead ML Engineer
+2. John Paul Ullegue - Data Specialist
 
 Institution: University of Southeastern Philippines – College of Information and Computing
