@@ -1,4 +1,4 @@
-# 🐍 Sss or Safe? Snake Venom Classification
+# 🐍 SnakeSafe: Transfer Learning for Venom Classification with Architecture Optimization
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-blue?logo=gradio)](https://gradio.app/)
