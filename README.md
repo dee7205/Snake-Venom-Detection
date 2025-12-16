@@ -10,7 +10,7 @@ This project applies Computer Vision to wildlife safety. Using a dataset of Phil
 
 The final model utilizes **MobileNetV2** architecture, optimized for mobile efficiency and high accuracy.
 
-**Try the Live Demo:** [Link to your Hugging Face Space](https://huggingface.co/spaces/deesim/venomous-or-nonvenomous-snake-classifier)
+**Try the Live Demo:** [SnakeSafe Web](https://huggingface.co/spaces/deesim/venomous-or-nonvenomous-snake-classifier)
 
 ## 🎯 Objectives
 * Prepare and merge diverse snake image datasets (iNaturalist sources).
