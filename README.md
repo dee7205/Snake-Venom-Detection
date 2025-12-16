@@ -2,7 +2,6 @@
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-blue?logo=gradio)](https://gradio.app/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > **A Deep Learning project to classify snake species as Venomous or Non-Venomous using Transfer Learning.**
 
