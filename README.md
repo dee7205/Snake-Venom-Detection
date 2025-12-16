@@ -53,6 +53,7 @@ python app.py
 ```
 
 👩‍💻 Authors
+
 Dave Shanna Gigawin - Lead ML Engineer
 
 John Paul Ullegue - Data Specialist
