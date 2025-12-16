@@ -40,7 +40,7 @@ After experimenting with Vanilla CNNs and Ensembles, the **MobileNetV2** model p
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Snake-Venom-Detection.git](https://github.com/YOUR_USERNAME/Snake-Venom-Detection.git)
+git clone [https://github.com/dee7205/Snake-Venom-Detection.git](https://github.com/dee7205/Snake-Venom-Detection.git)
 cd Snake-Venom-Detection
 ```
 ### 2. Install dependencies
